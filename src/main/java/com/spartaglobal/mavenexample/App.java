@@ -20,7 +20,8 @@ public class App
         newExample.workingWithOutSet();
         newExample.printSet();
 
-        ExampleLists newList = new ExampleLists("MMA");
+        ExampleLists newList = new ExampleLists();
+        newList.printList();
 
 
 
