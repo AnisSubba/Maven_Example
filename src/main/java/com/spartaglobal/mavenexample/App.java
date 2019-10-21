@@ -1,5 +1,6 @@
 package com.spartaglobal.mavenexample;
 
+import com.spartaglobal.mavenexample.collectionexamples.ExampleLists;
 import com.spartaglobal.mavenexample.collectionexamples.ExampleSets;
 import com.spartaglobal.mavenexample.mavenexample.JavaAPIExample;
 
@@ -18,6 +19,11 @@ public class App
         ExampleSets newExample = new ExampleSets();
         newExample.workingWithOutSet();
         newExample.printSet();
+
+        ExampleLists newList = new ExampleLists("MMA");
+
+
+
 
 
 
