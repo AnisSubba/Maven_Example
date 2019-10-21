@@ -1,4 +1,4 @@
-package com.spartaglobal.mavenexample;
+package com.spartaglobal.mavenexample.mavenexample;
 
 
 public class JavaAPIExample {
