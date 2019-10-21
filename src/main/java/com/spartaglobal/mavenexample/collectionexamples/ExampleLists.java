@@ -8,8 +8,8 @@ public class ExampleLists {
 
     private List<String> hobbies = new ArrayList<>();
 
-    public ExampleLists(List<String> hobbies){
-        this.hobbies = hobbies;
+    public ExampleLists(){
+        workingWithOutList();
     }
 
     public void workingWithOutList(){
